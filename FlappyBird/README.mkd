@@ -17,16 +17,16 @@ This is a **Flappy Bird** clone built using **Swift** and **SpriteKit**. The gam
 
 ## 📸 Screenshots
 ### Main Menu
-![IMG_1434](https://github.com/user-attachments/assets/aec9bf8c-bc82-4003-a73f-7f7d8a2b47fe)
+
 ![IMG_1433](https://github.com/user-attachments/assets/c4e9e10d-314f-4384-a15a-88f269a3e09d)
 
-![IMG_1435](https://github.com/user-attachments/assets/1abe1232-25a7-4713-916a-1bbe0ab647fa)
+
 
 ### In-Game
-![Gameplay](screenshots/gameplay.png)
+![IMG_1434](https://github.com/user-attachments/assets/aec9bf8c-bc82-4003-a73f-7f7d8a2b47fe)
 
 ### Game Over
-![Game Over](screenshots/game_over.png)
+![IMG_1435](https://github.com/user-attachments/assets/1abe1232-25a7-4713-916a-1bbe0ab647fa)
 
 ## 🚀 Installation
 1. Clone the repository:
